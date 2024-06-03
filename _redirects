@@ -1,2 +1,4 @@
 # Can't use 200 because `meta` arg can't be directly passed via response header
-/*  https://static.s.7c7.icu/html/download.html?src=https%3A%2F%2Fs.7c7.icu&meta=https%3A%2F%2Fmeta.s.7c7.icu&slug=:splat 302
+#/*  https://static.s.7c7.icu/html/download.html?src=https%3A%2F%2Fs.7c7.icu&meta=https%3A%2F%2Fmeta.s.7c7.icu&slug=:splat 302
+
+/* https://pt.s.7c7.icu/@/main-delegate.html 200
